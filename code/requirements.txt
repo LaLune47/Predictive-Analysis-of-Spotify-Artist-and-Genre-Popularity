@@ -1,0 +1,12 @@
+seaborn
+umap
+scipy
+statsmodels
+numpy
+pandas
+matplotlib
+scikit-learn
+tqdm
+pmdarima
+tensorflow
+
